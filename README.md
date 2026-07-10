@@ -31,4 +31,4 @@
 [https://cdev2026ai.github.io/3d-simulator/](https://cdev2026ai.github.io/3d-simulator/)
 
 ## GitHub 저장소
-아직 업로드 전입니다.
+[https://github.com/cdev2026ai/3d-simulator/](https://github.com/cdev2026ai/3d-simulator/)
