@@ -28,7 +28,7 @@
 - 하나만 개선한다면 어떤 공간을 바꾸고 싶은가?
 
 ## 배포 URL
-아직 배포 전입니다.
+[https://cdev2026ai.github.io/3d-simulator/](https://cdev2026ai.github.io/3d-simulator/)
 
 ## GitHub 저장소
 아직 업로드 전입니다.
